@@ -22,7 +22,7 @@ public class JavaExample6 {
         System.out.println();
         
         //float number
-        float b=1.4F; // F must be there for long
+        float b=1.4F; // F must be there for float
         System.out.println(b);
         System.out.println();
         
